@@ -1,6 +1,8 @@
 {
     "name": "bariseser/sqs",
     "type": "library",
+    "description": "PHP aws sqs wrapper.",
+    "keywords": ["php", "aws", "sqs","pub/sub", "producer", "consumer"],
     "require": {
         "aws/aws-sdk-php": "^3.219"
     },

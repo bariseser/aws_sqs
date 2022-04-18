@@ -1,5 +1,10 @@
 # PHP AWS SQS Wrapper
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bariseser/aws_sqs/issues)
+[![Latest Stable Version](https://poser.pugx.org/bariseser/sqs/v/stable)](https://packagist.org/packages/bariseser/sqs)
+[![Total Downloads](https://poser.pugx.org/bariseser/sqs/downloads)](https://packagist.org/packages/bariseser/sqs)
+[![License](https://poser.pugx.org/bariseser/sqs/license)](https://packagist.org/packages/bariseser/sqs)
+
 ## Installation
 
 Aws Sqs Wrapper installation is very simple. Open the terminal and run this command

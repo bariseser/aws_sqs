@@ -1,0 +1,22 @@
+{
+    "name": "bariseser/sqs",
+    "type": "library",
+    "require": {
+        "aws/aws-sdk-php": "^3.219"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bariseser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baris Eser",
+            "email": "bariseser@gmail.com"
+        }
+    ]
+}
